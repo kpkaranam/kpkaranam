@@ -1,6 +1,6 @@
 # Hey there, I'm Pavan Karanam 👋
 
-**AI Engineer & Open Source Contributor** based in Bangalore, India
+**CyberSecurity & AI Engineer & Open Source Contributor** based in Bangalore, India
 
 I build intelligent developer tools and autonomous agent frameworks. Currently focused on the intersection of **AI/ML** and **developer experience** — making AI agents that actually ship production code.
 
