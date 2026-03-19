@@ -1,39 +1,28 @@
 # Hey there, I'm Pavan Karanam 👋
 
-**CyberSecurity & AI Engineer & Open Source Contributor** based in Bangalore, India
+**CyberSecurity & AI Enthusiastic** based in Bangalore, India
 
-I build intelligent developer tools and autonomous agent frameworks. Currently focused on the intersection of **AI/ML** and **developer experience** — making AI agents that actually ship production code.
-
----
-
-### 🔭 What I'm Working On
-
-- **[Fishi](https://github.com/kpkaranam/fishi)** — An autonomous agent framework for Claude Code. Your AI dev team that actually ships.
-- Exploring agentic workflows, LLM tool-use patterns, and developer productivity through AI
-
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🤖 Areas of Interest
-
-- **AI Agents & Autonomous Systems** — Building frameworks that let AI reason, plan, and execute
-- **LLM Tool Use** — Designing reliable tool-calling patterns for production AI
-- **Developer Experience** — Making complex workflows simple through intelligent automation
-- **Open Source** — Contributing to and building tools the community can use
+I build intelligent systems and explore what's possible when AI meets thoughtful engineering. Currently focused on **teaching machines to learn the way humans do** — and making AI development accessible to individuals.
 
 ---
 
-### 📊 GitHub Stats
+### What I'm Working On
+
+- **[The Project Brain](https://github.com/kpkaranam/the_project_brain)** — Teaching a machine to learn code by reading a textbook, not by consuming the entire internet. Curriculum-based AI training that runs on a CPU — no GPU, no cloud, no massive datasets. Proving that thoughtful data design beats brute-force scale.
+
+- **[Fishi](https://github.com/kpkaranam/fishi)** — An autonomous multi-agent framework for Claude Code that takes projects from idea to deployment.
+
+### Areas of Interest
+
+- **Human-Like AI Learning** — Can machines learn from structured lessons the way students do? Building the evidence that they can.
+- **AI Agents & Autonomous Systems** — Frameworks that let AI reason, plan, and execute real work
+- **Democratizing AI** — Making training and building AI accessible to individuals with a CPU systems, not just teams with data centers
+- **CyberSecurity** — Bringing intelligent automation to security workflows
+- **Open Source** — Building tools the community can use and improve
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpkaranam&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -50,7 +39,7 @@ I build intelligent developer tools and autonomous agent frameworks. Currently f
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kpkaranam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpkaranam)
